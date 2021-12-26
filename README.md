@@ -18,5 +18,5 @@ finally
 
 
 ## Fell free to create a PR or Fork it
-### Pleas dont forget, if you what to learn about Blockchain, Solidity, Metaverse or NFTs. Send me an e-mail: 
+### Please don't forget, if you what to learn about Blockchain, Solidity, Metaverse and NFTs. Send me an e-mail: 
 filipwx7@gmail.com
