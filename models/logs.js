@@ -13,38 +13,30 @@ const schema = new Schema({
   },
   hostname: {
     type: String,
-    required: true,
-    unique: true
   },
   ip: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   loc: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   org: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   postal: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   region: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   timezone: {
     type: String,
-    required: true,
-    default: false
+    required: false
   },
   token: {
     type: mongoose.Schema.Types.ObjectId,
